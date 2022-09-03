@@ -3,3 +3,9 @@
 
 #某文件
 v2rayN-Core.zip
+
+#忽略所有 doc
+.doc
+
+#但不要忽略杨树钦.doc
+!杨树钦.doc
